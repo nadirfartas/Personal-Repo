@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I’m passionate about tech, personal growth, and 
 - **LinkedIn:** https://www.linkedin.com/in/nadir-fartas-56046a217/
 
 # 🚀 Featured Projects
-**Personal Portfolio:** An interactive, animated portfolio to showcase my web development and design skills.
-**Marketing Strategy Template:** A sample plan for developing a comprehensive marketing strategy, including market research and content creation.
-ESC Activities: A collection of fun and engaging activities for English speakers, focusing on personal development, games, and discussions.
+- **Personal Portfolio:** An interactive, animated portfolio to showcase my web development and design skills.
+- **Marketing Strategy Template:** A sample plan for developing a comprehensive marketing strategy, including market research and content creation.
+- **ESC Activities:** A collection of fun and engaging activities for English speakers, focusing on personal development, games, and discussions.
 # 🎉 Fun Facts
-🌍 Dream travel destinations: Malaysia for the luxurious beaches and Switzerland for the scenic nature and culture.
-🎬 Hosting movie nights with my club friends, always looking for films with exciting plot twists!
-🎨 I love making creative videos and designs for our club events and recruitment campaigns.
+- 🌍 Dream travel destinations: Malaysia for the luxurious beaches and Switzerland for the scenic nature and culture.
+- 🎬 Hosting movie nights with my club friends, always looking for films with exciting plot twists!
+- 🎨 I love making creative videos and designs for our club events and recruitment campaigns.
 
 Thanks for stopping by! Feel free to reach out—I’d love to connect, collaborate, or chat about ideas for fun, interactive experiences! 😊
