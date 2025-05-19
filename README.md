@@ -1,17 +1,17 @@
 # Personal-Repo
 Hello, I'm NADIR FARTAS! 👋
-Welcome to my GitHub profile! I’m passionate about tech, personal growth, and creating fun, interactive experiences. Here’s a glimpse into my journey and the things I love to work on.
+Welcome to my GitHub profile! I’m passionate about tech, AI (NLP), personal growth, and creating fun, interactive experiences. Here’s a glimpse into my journey and the things I love to work on.
 
 # 🌟 About Me
 
-- 💻 I’m an enthusiastic developer, recently diving deep into JavaScript and building my own portfolio to showcase my skills.
+- 💻 I’m an enthusiastic developer, recently diving deep into JavaScript and building AI models for NLP tasks.
 - 🎓 Balancing studies, work, and learning new skills, with a focus on UI/UX and web development.
 - 🌱 Actively involved in my English Speakers Club, where I contribute to discussions on topics like personal development, tourism, and artificial intelligence.
 - 🧩 I’m also working on enhancing my English language skills through fun and interactive online activities.
 ## 🔧 Technologies & Tools
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** Interested in exploring React and Vue
-- **Tools:** Git, VS Code, Discord
+- **Languages:** JavaScript, HTML, CSS, Python.
+- **Frameworks:** Interested in exploring React and Vue, Pythorch.
+- **Tools:** Git, VS Code, Discord, Kaggle, Figma.
 - **Other Skills:** UI/UX Design, Basic Animation, Project Coordination
 ## 🎯 Current Goals
 - 💡 Complete my JavaScript portfolio project with animations and interactive features.
@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I’m passionate about tech, personal growth, and 
 - **Personal Portfolio:** An interactive, animated portfolio to showcase my web development and design skills.
 - **Marketing Strategy Template:** A sample plan for developing a comprehensive marketing strategy, including market research and content creation.
 - **ESC Activities:** A collection of fun and engaging activities for English speakers, focusing on personal development, games, and discussions.
+- **Arabic Question Generator for Educational kids** A web application that allows teachers and students to use AI for Exam or Text understanding Questions generation.
 # 🎉 Fun Facts
 - 🌍 Dream travel destinations: Malaysia for the luxurious beaches and Switzerland for the scenic nature and culture.
 - 🎬 Hosting movie nights with my club friends, always looking for films with exciting plot twists!
